@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451806172640",
+    "project_id": "may26proj",
+    "storage_bucket": "may26proj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451806172640:android:28994cf8149a38d20fc785",
+        "android_client_info": {
+          "package_name": "com.example.may25proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfR3zNI3LUbNFkGQb_eQrfUhqJ2H9zxCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451806172640:android:b2fdf1f9231b44e80fc785",
+        "android_client_info": {
+          "package_name": "com.savvycomsoftware.flutter_sav_notification_example.flutter_notification_service_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfR3zNI3LUbNFkGQb_eQrfUhqJ2H9zxCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

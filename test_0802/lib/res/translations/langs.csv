@@ -1,0 +1,23 @@
+str,en
+login,Đăng nhập
+account,tài khoản
+label_diagnos,Chuẩn đoán
+label_des_st,Mô tả tình trạng
+password,Mật khẩu
+repair,Sửa chữa
+services,CHỌN DỊCH VỤ
+rs_diagnose,Kết quả chuẩn đoán
+bsx,29A1-88888
+km,km
+condition,condition
+label_total_km,Số km đã chạy
+label_edit_km,Nhập số km
+label_choose_services,Chọn dịch vụ có sẵn
+label_asterisk,"*"
+label_continuous,Tiếp tục
+label_search,Search
+profile,Hồ sơ
+date_repair,Ngày sửa chữa gần nhất:
+total_repair,Số lần sửa: 
+detail,Xem chi tiết
+label_profile_repair,Hồ sơ sửa chữa

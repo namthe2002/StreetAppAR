@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Wireless Headphones",
+      "description": "High quality wireless headphones with noise cancelling technology.",
+      "price": 149.99,
+      "image_url": "https://cdn.shopify.com/s/files/1/0573/2309/4216/products/LosAngeles_MidnightBlack_001_25ec6143-8749-4fb2-8ac2-462ce420ac9e_1080x.png?v=1650876856"
+    },
+    {
+      "name": "Smart Watch",
+      "description": "A smart watch with activity tracking, heart rate monitoring, and app notifications.",
+      "price": 199.99,
+      "image_url": "https://mysterio.yahoo.com/api/res/1.2/594X8B5sZ8Lw37ttj.ZSLQ--/ZHByPTI7dz04NzU7YXBwaWQ9ZW5nYWRnZXQ-/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2020-04/59a8ed60-7819-11ea-a2fe-460c6da1595e.cf.webp"
+    },
+    {
+      "name": "Gaming Laptop",
+      "description": "A powerful gaming laptop with a high-end graphics card and fast processor.",
+      "price": 1699.99,
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/210804125008-razer-blade-15-lead.jpg?q=x_0,y_0,h_2268,w_4030,c_fill/h_720,w_1280/f_webp"
+    },
+    {
+      "name": "Robot Vacuum Cleaner",
+      "description": "A robot vacuum cleaner that can clean your floors automatically.",
+      "price": 399.99,
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/210804125008-razer-blade-15-lead.jpg?q=x_0,y_0,h_2268,w_4030,c_fill/h_720,w_1280/f_webp"
+    }
+  ]
+}

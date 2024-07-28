@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Asian - Men Bouncer",
+    "category": "Men",
+    "oldPrice": "6999999đ",
+    "imageUrl": "https://m.media-amazon.com/images/I/61hMQOHmEIL._AC_UL320_.jpg",
+    "price": "1.299.999đ",
+    "discount" : "50%"
+
+  },
+  {
+    "id": 2,
+    "name": "Sparx",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81b9Eh286BL._AC_UL320_.jpg",
+    "price": "2099999đ",
+    "discount" : "50%",
+    "oldPrice": "5000000đ"
+  },
+  {
+    "id": 3,
+    "name": "Ethics",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/61U-R3-znNL._AC_UL320_.jpg",
+    "oldPrice": "5000000đ",
+    "price": "199999đ",
+    "discount" : "50%"
+
+  },
+  {
+    "id": 4,
+    "name": "Sparx",
+    "category": "men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81Ud8DjRbXL._AC_UL320_.jpg",
+    "oldPrice": "5999999đ",
+    "price": "7999999đ",
+    "discount" : "50%"
+
+  },
+  {
+    "id": 5,
+    "name": "Asian",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/71M5-l4H-aL._AC_UL320_.jpg",
+    "oldPrice": "5000000đ",
+    "price": "123.323đ",
+    "discount" : "50%"
+
+  },
+  {
+    "id": 6,
+    "name": "Reebok",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/71OEHq3M-9L._AC_UL320_.jpg",
+    "oldPrice": "5000000đ",
+    "price": "123.323đ",
+    "discount" : "50%"
+
+  },
+  {
+    "id": 7,
+    "name": "Sparx",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iRr9yEzxL._AC_UL320_.jpg",
+    "oldPrice": "5000000đ",
+    "price": "123.323đ",
+    "discount" : "50%"
+  },
+  {
+    "id": 8,
+    "name": "Reebok",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/81iqNypAS-L._AC_UL320_.jpg",
+    "oldPrice": "5000000đ",
+    "price": "123.323đ",
+    "discount" : "50%"
+
+  },
+  {
+    "id": 9,
+    "name": "Asian",
+    "category": "Men",
+    "imageUrl": "https://m.media-amazon.com/images/I/61Uu4ZpqCDL._AC_UL320_.jpg",
+    "oldPrice": "5000000đ",
+    "price": "123.323đ",
+    "discount" : "50%"
+
+  }
+]
